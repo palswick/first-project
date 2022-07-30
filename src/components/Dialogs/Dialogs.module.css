@@ -1,0 +1,28 @@
+.dialogsWrapper {
+    display: grid;
+    grid-template-columns: 2fr 6fr 4fr;
+}
+
+.messages{
+    position: relative;
+}
+
+.sendMessageSection{
+    display: flex;
+    position: relative;
+    align-items: center;
+    gap: 10px;
+}
+
+.newMessageArea {
+    width: 260px;
+    height: 35px;
+}
+
+.button{
+    width: 50px;
+    height: 30px;
+}
+
+
+

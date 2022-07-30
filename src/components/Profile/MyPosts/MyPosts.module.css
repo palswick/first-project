@@ -1,0 +1,12 @@
+.postsBlock{
+    padding: 10px;
+}
+
+.posts{
+    margin-top: 10px;
+}
+
+.textarea{
+    max-width: 500px;
+    max-height: 200px;
+}
